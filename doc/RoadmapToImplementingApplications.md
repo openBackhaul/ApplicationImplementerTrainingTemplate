@@ -36,4 +36,3 @@
 - [Documentation of the Implementation of the ApplicationPattern](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ApplicationPatternDocumentation/ApplicationPatternDocumentation.md)
 - [General Design Principles](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ElementsApplicationPattern/ElementsApplicationPattern.md)
 
-[<- Back to ApplicationPattern](../ElementsApplicationPattern/ElementsApplicationPattern.md) - - - [Up to Getting started ->](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/GettingStarted/GettingStarted.md)
