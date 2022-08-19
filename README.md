@@ -10,6 +10,4 @@ Template Repository for ApplicationImplementer Trainings
 ### RoadMap
 - [Training RoadMap](./doc/RoadMap/RoadMap.md)
 
-### Comments
-This application will be specified within the training for ApplicationOwners.
 
