@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: AdministratorAdministration
+  title: ApplicationAbbreviationExtractor
   version: 0.0.2
 
 paths:
