@@ -6,7 +6,7 @@
   * **Title** : Resolve OAS issue related to UUID
   * **Comment** :
     - [ ] Read [structure of uuid](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ElementsApplicationPattern/Names/StructureOfUuids/StructureOfUuids.md)
-    - [ ] Take the [Open API Specification file](../../ApplicationAbbreviationExtractor_1.0.0.yaml)
+    - [ ] Take the [Open API Specification file](../../../ApplicationAbbreviationExtractor_1.0.0.yaml)
     - [ ] Find the wrongly specified UUID in the service /v1/start-application-in-generic-representation
     - [ ] Correct the UUID
     - [ ] Validate the yaml file
