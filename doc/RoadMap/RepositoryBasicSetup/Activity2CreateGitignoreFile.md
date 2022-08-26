@@ -5,7 +5,7 @@
 * Create an Issue with the following details , 
   * **Title** : Create .gitignore file
   * **Comment** :
-    - [ ] Read [Create .gitignore file](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/Steps2CreateGitIgnoreFile/Steps2CreateGitIgnoreFile.md)
+    - [ ] Read [Create .gitignore file](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/Steps2CreateGitIgnoreFile/Steps2CreateGitIgnoreFile.md)
     - [ ] Create .gitignore file and include the node_modules/ directory in the file
     - [ ] Read [Processing an Issue](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ProcessingAnIssue/ProcessingAnIssue.md)
     - [ ] Read [Creating a Commit](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/CreatingCommit/CreatingCommit.md)

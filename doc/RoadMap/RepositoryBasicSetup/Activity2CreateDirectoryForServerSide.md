@@ -5,7 +5,7 @@
 * Create an Issue with the following details , 
   * **Title** : Create Directory for server-side implementation
   * **Comment** :
-    - [ ] Read [Create Directory for server-side implementation](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/Steps2CreateDirectoryForServer/Steps2CreateDirectoryForServer.md)
+    - [ ] Read [Create Directory for server-side implementation](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/Steps2CreateDirectoryForServer/Steps2CreateDirectoryForServer.md)
     - [ ] Create a directory names "server" for the server-side implementation
     - [ ] Read [Processing an Issue](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ProcessingAnIssue/ProcessingAnIssue.md)
     - [ ] Read [Creating a Commit](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/CreatingCommit/CreatingCommit.md)
