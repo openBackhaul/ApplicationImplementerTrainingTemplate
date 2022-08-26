@@ -5,7 +5,7 @@
 * Create an Issue with the following details , 
   * **Title** : Configure Automatic Code Style and Formatting
   * **Comment** :
-    - [ ] Read [Automatic Code Style and Formatting](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/Steps2AutomateCodeFormating/Steps2AutomateCodeFormating.md)
+    - [ ] Read [Automatic Code Style and Formatting](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/Steps2AutomateCodeFormating/Steps2AutomateCodeFormating.md)
     - [ ] Install Automatic formatting in VSCode
     - [ ] Close this issue
 

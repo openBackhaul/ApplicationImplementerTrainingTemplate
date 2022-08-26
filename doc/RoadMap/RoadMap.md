@@ -3,7 +3,7 @@
 ## Collaboration
 
 * Read [Introduction to Git and GitHub](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/Introduction2Git/Introduction2Git.md)
-* Read [Workflow for Contributing](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/ConceptOfCodeCollaboration/ConceptOfCodeCollaboration.md)
+* Read [Workflow for Contributing](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ConceptOfCodeCollaboration/ConceptOfCodeCollaboration.md)
 * Read [GitFlow Workflow](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/GitFlowWorkflow/GitFlowWorkflow.md)
 * Make yourself familiar with the [Basic Syntax of Markdown](https://www.markdownguide.org/basic-syntax/)
 * Read [Formulating Issues](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/FormulatingIssues/FormulatingIssues.md)
@@ -19,33 +19,33 @@
 
 ## Development Environment Setup 
 
-* Read [Introduction to Node.js](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/Introduction2NodeJs/Introduction2NodeJs.md)
-* Read [Introduction to npm](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/Introduction2Npm/Introduction2Npm.md)
-* Read [Implementing Node.js application in VSCode](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/ConceptOfCodingNodeJsInVSCode/ConceptOfCodingNodeJsInVSCode.md)
-* Read [Running Node.js Applications in VSCode](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/ConceptOfRunningNodeJsInVSCode/ConceptOfRunningNodeJsInVSCode.md)
-* Read [Debugging Node.js Applications in VSCode](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/ConceptOfDebuggingNodeJsInVSCode/ConceptOfDebuggingNodeJsInVSCode.md)
+* Read [Introduction to Node.js](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/Introduction2NodeJs/Introduction2NodeJs.md)
+* Read [Introduction to npm](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/Introduction2Npm/Introduction2Npm.md)
+* Read [Implementing Node.js application in VSCode](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ConceptOfCodingNodeJsInVSCode/ConceptOfCodingNodeJsInVSCode.md)
+* Read [Running Node.js Applications in VSCode](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ConceptOfRunningNodeJsInVSCode/ConceptOfRunningNodeJsInVSCode.md)
+* Read [Debugging Node.js Applications in VSCode](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ConceptOfDebuggingNodeJsInVSCode/ConceptOfDebuggingNodeJsInVSCode.md)
 
 - [ ] Activity#1 [Install Node.js and npm](./DevelopmentEnvironmentSetup/Activity2InstallNodeJSAndNpm.md)
 
 ## Clean Coding
 
-* Read [Introduction to CleanCode](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/ConceptOfCleanCoding/ConceptOfCleanCoding.md)
-* Read [coding guidelines](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/PreparingImplementing/ConceptOfCodingGuidelines/ConceptOfCodingGuidelines.md)
+* Read [Introduction to CleanCode](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ConceptOfCleanCoding/ConceptOfCleanCoding.md)
+* Read [coding guidelines](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/PreparingSpecifying/ConceptOfCodingGuidelines/ConceptOfCodingGuidelines.md)
 
 - [ ] Activity#1 [Configure Automatic Code Style and Formatting](./CleanCoding/Activity2ConfigureAutomaticCodeStyleAndFormatting.md)
 
 ## Repository Basic Setup
 
-* Read [Directory for server-side implementation](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfDirectoryForServer/ConceptOfDirectoryForServer.md)
-* Read [About .gitignore file](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfGitIgnoreFile/ConceptOfGitIgnoreFile.md)
+* Read [Directory for server-side implementation](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfDirectoryForServer/ConceptOfDirectoryForServer.md)
+* Read [About .gitignore file](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfGitIgnoreFile/ConceptOfGitIgnoreFile.md)
 
 - [ ] Activity#1 [Create Directory for server-side implementation](./RepositoryBasicSetup/Activity2CreateDirectoryForServerSide.md)
 - [ ] Activity#2 [Create .gitignore file](./RepositoryBasicSetup/Activity2CreateGitignoreFile.md)
 
 ## Understanding the Requirement
 
-* Read [Understanding the CONFIG file](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfUnderstandingTheConfigFile/ConceptOfUnderstandingTheConfigFile.md)
-* Read [Understanding the OAS](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfUnderstandingTheOAS/ConceptOfUnderstandingTheOAS.md)
+* Read [Understanding the CONFIG file](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfUnderstandingTheConfigFile/ConceptOfUnderstandingTheConfigFile.md)
+* Read [Understanding the OAS](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfUnderstandingTheOAS/ConceptOfUnderstandingTheOAS.md)
 
 - [ ] Activity#1 [Get a high-level overview](./UnderstandingTheRequirement/Activity2GetAHighLevelOverview.md)
 - [ ] Activity#2 [Resolve OAS issue related to basic service](./UnderstandingTheRequirement/Activity2ResolveOASIssueRelatesToBasicService.md)
@@ -64,10 +64,10 @@
 
 ## Dependencies and Initial Configuration
 
-* Read [Integrating Configuration file](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfIntegratingConfigFile/ConceptOfIntegratingConfigFile.md)
-* Read [Application pattern package](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfApplicationPatternPackage/ConceptOfApplicationPatternPackage.md)
-* Read [Authorization](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfAuthenticationAuthorization/ConceptOfAuthenticationAuthorization.md)
-* Read [Directing Logs and Traces](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfLogDirection/ConceptOfLogDirection.md)
+* Read [Integrating Configuration file](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfIntegratingConfigFile/ConceptOfIntegratingConfigFile.md)
+* Read [Application pattern package](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfApplicationPatternPackage/ConceptOfApplicationPatternPackage.md)
+* Read [Authorization](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfAuthenticationAuthorization/ConceptOfAuthenticationAuthorization.md)
+* Read [Directing Logs and Traces](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfLogDirection/ConceptOfLogDirection.md)
 
 - [ ] Activity#1 [Integrate Configuration file](./DependenciesAndInitialConfiguration/Activity2IntegrateConfigurationFile.md)
 - [ ] Activity#2 [Integrate Application pattern package](./DependenciesAndInitialConfiguration/Activity2IntegrateApplicationPatternPackage.md)
@@ -76,20 +76,20 @@
 
 ## Basic Services  
 
-* Read [Basic Service packages](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfBasicServices/ConceptOfBasicServices.md)
+* Read [Basic Service packages](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfBasicServices/ConceptOfBasicServices.md)
 
 - [ ] Activity#1 [Integrate Basic Service](./BasicServices/Activity2IntegrateBasicServices.md)
 
 ## OAM Services
 
-* Read [OAM Services](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfOAMServices/ConceptOfOAMServices.md)
+* Read [OAM Services](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfOAMServices/ConceptOfOAMServices.md)
 
 - [ ] Activity#1 [Implement OAM Services](./OAMServices/Activity2ImplementOAMServices.md)
 
 ## Individual Services 
 
-* Read [Individual Services](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfIndividualServices/ConceptOfIndividualServices.md)
-* Read [software upgradation](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfSoftwareUpgradation/ConceptOfSoftwareUpgradation.md)
-* Read [Generic representation](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/ConceptOfGenericRepresentation/ConceptOfGenericRepresentation.md)
+* Read [Individual Services](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfIndividualServices/ConceptOfIndividualServices.md)
+* Read [software upgradation](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfSoftwareUpgradation/ConceptOfSoftwareUpgradation.md)
+* Read [Generic representation](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/ConceptOfGenericRepresentation/ConceptOfGenericRepresentation.md)
 
 - [ ] Activity#1 [Implement Individual Services](./IndividualServices/Activity2ImplementIndividualServices.md)

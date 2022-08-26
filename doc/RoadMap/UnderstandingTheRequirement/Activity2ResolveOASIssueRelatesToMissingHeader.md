@@ -5,7 +5,7 @@
 * Create an Issue with the following details , 
   * **Title** : Resolve OAS issue related to Missing Header
   * **Comment** :
-    - [ ] Take the [Open API Specification file](../ApplicationAbbreviationExtractor.yaml)
+    - [ ] Take the [Open API Specification file](../../../ApplicationAbbreviationExtractor_1.0.0.yaml)
     - [ ] Find the missing header in the individual service in the service /v1/start-application-in-generic-representation
     - [ ] Include the missing header information
     - [ ] Validate the yaml file

@@ -5,7 +5,7 @@
 * Create an Issue with the following details , 
   * **Title** : Generate server side stub
   * **Comment** :
-    - [ ] Read [Server stub generation](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/Steps2GenerateServerStub/Steps2GenerateServerStub.md)
+    - [ ] Read [Server stub generation](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/Steps2GenerateServerStub/Steps2GenerateServerStub.md)
     - [ ] Generate server stub
     - [ ] Close this issue
 

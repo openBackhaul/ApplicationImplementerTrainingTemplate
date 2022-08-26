@@ -5,8 +5,8 @@
 * Create an Issue with the following details , 
   * **Title** : Get a high-level overview of the Specification
   * **Comment** :
-    - [ ] Read [How to get a high-level overview](https://github.com/openBackhaul/ApplicationPattern/blob/PrathibaJee/issue256/doc/ImplementingApplications/ImplementingApplication/Steps2GetHighLevelOverview/Steps2GetHighLevelOverview.md)
-    - [ ] Take the [Open API Specification file](../ApplicationAbbreviationExtractor.yaml)
+    - [ ] Read [How to get a high-level overview](https://github.com/openBackhaul/ApplicationPattern/blob/develop/doc/ImplementingApplications/Steps2GetHighLevelOverview/Steps2GetHighLevelOverview.md)
+    - [ ] Take the [Open API Specification file](../../../ApplicationAbbreviationExtractor_1.0.0.yaml)
     - [ ] Get a high level overview of the application
     - [ ] Close this issue
 
